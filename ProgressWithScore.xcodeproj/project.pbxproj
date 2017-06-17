@@ -14,6 +14,7 @@
 		D5148A2B1EF24AD5002B84F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5148A291EF24AD5002B84F3 /* LaunchScreen.storyboard */; };
 		D5148A361EF24AD6002B84F3 /* ProgressWithScoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5148A351EF24AD6002B84F3 /* ProgressWithScoreTests.swift */; };
 		D5148A411EF24AD6002B84F3 /* ProgressWithScoreUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5148A401EF24AD6002B84F3 /* ProgressWithScoreUITests.swift */; };
+		D5148A4F1EF24CC1002B84F3 /* SetScoreVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5148A4E1EF24CC1002B84F3 /* SetScoreVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D5148A3C1EF24AD6002B84F3 /* ProgressWithScoreUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProgressWithScoreUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5148A401EF24AD6002B84F3 /* ProgressWithScoreUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressWithScoreUITests.swift; sourceTree = "<group>"; };
 		D5148A421EF24AD6002B84F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D5148A4E1EF24CC1002B84F3 /* SetScoreVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetScoreVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				D5148A201EF24AD5002B84F3 /* AppDelegate.swift */,
 				D5148A221EF24AD5002B84F3 /* ViewController.swift */,
+				D5148A4E1EF24CC1002B84F3 /* SetScoreVC.swift */,
 				D5148A241EF24AD5002B84F3 /* Main.storyboard */,
 				D5148A271EF24AD5002B84F3 /* Assets.xcassets */,
 				D5148A291EF24AD5002B84F3 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				D5148A231EF24AD5002B84F3 /* ViewController.swift in Sources */,
 				D5148A211EF24AD5002B84F3 /* AppDelegate.swift in Sources */,
+				D5148A4F1EF24CC1002B84F3 /* SetScoreVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
